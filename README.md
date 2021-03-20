@@ -6,7 +6,7 @@
 <h2 align="center">3. Go to the Profile Section & fill the required 
 details</h2>
 <h2 align="center">4. Select `EddieHub` in Guild Membership !!</h2>
-<img align="center" src="2.png" style="width:100%">
+<img align="center" src="23.png" style="width:100%">
 
 <h2 align="center">4.Click on Submit !! You are done !!</h2>
   

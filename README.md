@@ -1,1 +1,3 @@
-# Eddiehub_share
+## Join Eddiehub in MLH Share
+
+**PS - you get green squares daily**

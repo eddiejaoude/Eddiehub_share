@@ -1,5 +1,9 @@
 ## Join Eddiehub in MLH Share
 
+# Go to [MLH-LHD:Share](https://discord.mlh.io) and select `EddieHub` in your profile section
+
+Join EddieHub's discord server, where we geek out [here](https://discord.gg/PNHRZJf7v7)
+
 **PS - you get green squares daily**
 
-![demo](https://user-images.githubusercontent.com/624760/111860299-91addb80-893e-11eb-855a-07a8278b9288.gif)
+![demo](ed.gif)

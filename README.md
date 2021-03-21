@@ -14,11 +14,10 @@ details</h2>
   
 <br>
   
-Join EddieHub's discord server, where we geek out [here](https://discord.gg/PNHRZJf7v7)
+Join EddieHub's discord server, where we geek out [here](http://discord.eddiehub.org)
 
 
 
 
 <h3 align="center">PS - you get green squares daily</h3>
 <img align="center" src="ed.gif"  style="width:100%">
-

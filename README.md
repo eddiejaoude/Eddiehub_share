@@ -4,14 +4,19 @@ Local Hack Day: Share is a week-long celebration of sharing everything you’ve 
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6NPT7AUR--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/tyo2pktr11zyt1bxt6s0.jpg">
 
-
 <h1 align="center"> Join EddieHub in MLH-LHD: Share</h1>
 
 <h2>1. Go to <a href="https://discord.mlh.io">[MLH-LHD:Share]</a></h2>
 <img align="center" src="1.png" style="width:100%">  
 <h2>2. Login </h2> 
 <h2>3. Go to the Profile Section & fill the required 
-details</h2>
+details like this</h2>
+<h3>Add your first and last name</h3>
+<img align="center" src="main1.png" style="width:100%">
+<h3>Add your Email</h3>
+<img align="center" src="main2.png" style="width:100%">
+<h3>Accept Code of Conduct and Discord rules</h3>
+<img align="center" src="main3.png" style="width:100%">
 <h2>4. Select EddieHub in Guild Membership !!</h2>
 <img align="center" src="23.png" style="width:100%">
 

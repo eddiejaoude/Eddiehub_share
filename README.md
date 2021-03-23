@@ -9,7 +9,7 @@ details like this</h2>
 <img align="center" src="main1.png" style="width:100%">
 <h3>Add your Email</h3>
 <img align="center" src="main2.png" style="width:100%">
-<h3>select this</h3>
+<h3>Accept Discord rules and Code of Conduct</h3>
 <img align="center" src="main3.png" style="width:100%">
 <h2>4. Select EddieHub in Guild Membership !!</h2>
 <img align="center" src="23.png" style="width:100%">

@@ -72,7 +72,13 @@ body {
 }
 
 .side-bar .menu .item .sub-menu a {
-  padding-left: 80px;
+  padding-left: 90px;
+}
+
+.side-bar .menu .item .sub-menu img {
+  padding-left: 30px;
+  height: 30px;
+  width: 60px;
 }
 
 .rotate {

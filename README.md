@@ -4,7 +4,13 @@
 <img align="center" src="1.png" style="width:100%">  
 <h2>2. Login </h2> 
 <h2>3. Go to the Profile Section & fill the required 
-details</h2>
+details like this</h2>
+<h3>Add your first and last name</h3>
+<img align="center" src="main1.png" style="width:100%">
+<h3>Add your Email</h3>
+<img align="center" src="main2.png" style="width:100%">
+<h3>select this</h3>
+<img align="center" src="main3.png" style="width:100%">
 <h2>4. Select EddieHub in Guild Membership !!</h2>
 <img align="center" src="23.png" style="width:100%">
 

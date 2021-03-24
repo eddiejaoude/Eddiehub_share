@@ -8,16 +8,32 @@
 }
 
 body {
-  background: url(a.gif) no-repeat;
+  background: url(../images/a.gif) no-repeat;
   background-position: center;
   background-size: 100% 100%;
   background-attachment: fixed;
 }
 .about {
-  margin-left: 20vmax;
+  margin-left: 10vmin;
   color: white;
   font-size: 3vmax;
-  margin-top: 20vmax;
+  margin-top: 20vmin;
   position: relative;
   transition: 0.6s ease;
 }
+
+.btn {
+  text-decoration: none;
+  color: #fff;
+  border-style: solid;
+  border-width: 0 3px 6px 0;
+  border-color: #fff;
+  border-radius: 15px;
+  background-color: #473c3b;
+  padding: 15px;
+}
+
+.btn:hover {
+  background-color: #e9281b;
+}
+
